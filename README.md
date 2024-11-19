@@ -29,7 +29,7 @@ Basic familiarity with Excel features like slicers and charts.
 
 **Preview**
 
-(Include an image link or embed a screenshot of your dashboard here.)
+![alt text](image.png)
 
 Repository Structure
 Sales-Dashboard.xlsx: The main Excel file containing the interactive dashboard.
